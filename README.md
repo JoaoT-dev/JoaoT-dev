@@ -6,5 +6,5 @@
 
 ## Sobre mim
 
-<img allign="right" height="190" src="![Imagens De Pokemon](https://github.com/user-attachments/assets/a0003193-7944-448c-9a18-7393a6b2fd76)">
+<img allign="right" height="190" src="https://projectpokemon.org/images/normal-sprite/giratina.gif">
 
