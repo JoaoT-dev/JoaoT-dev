@@ -17,6 +17,6 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 
 <p align = "center">
   <img src = "https://skillicons.dev/icon?
-    i=aws,azure,debian,linux,discord,gmail,instagram,linkedin,notion,ubuntu,vscode">
+    i=aws,azure,debian,linux,windows,discord,gmail,instagram,linkedin,notion,ubuntu,vscode">
   
 </p>
