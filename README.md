@@ -9,3 +9,8 @@
 <img align="right" height="100" src="https://projectpokemon.org/images/normal-sprite/giratina.gif">
 
 Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco em Cloud e desenvolvimento sistemas
+
+<br><br>
+
+---
+## Tech Stack
