@@ -1,4 +1,4 @@
-<h1 allign="center">
+<h1 align="center">
 <img src= https://capsule-render.vercel.app/api?type=waving&height=300&color=487eef&text=JoãoT-dev&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=75>
 
 
@@ -6,6 +6,6 @@
 
 ## Sobre mim
 
-<img allign="right" height="100" src="https://projectpokemon.org/images/normal-sprite/giratina.gif">
+<img align="right" height="100" src="https://projectpokemon.org/images/normal-sprite/giratina.gif">
 
 Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco em Cloud e desenvolvimento sistemas
