@@ -16,7 +16,7 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 ## Tech Stack
 
 <p align = "center">
-  <img src ="https://skillicons.dev/icon?
+  <img src = "https://skillicons.dev/icon?
     i=aws,azure,debian,linux,nginx,discord,gmail,instagram,linkedin,notion">
   
 </p>
