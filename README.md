@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=487eef&text=João%20Paulo>
+<img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=283642&text=João%20Paulo%20💻&fontColor=b4dfed>
 
 <br>
 
@@ -66,15 +66,15 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 ## Conecte-se comigo!
 
 <p align="center">
-  <a href="www.linkedin.com/in/joaotombi"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+  <a href="https://www.linkedin.com/in/joaotombi/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </p>
 
 
 
 <h4 align="center">
   Obrigado por visitar!
-  <br><br>
-  <div>
+  </h4>
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=JoaoT-dev">
   </div>
-</h4>
+
