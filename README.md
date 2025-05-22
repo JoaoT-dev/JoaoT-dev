@@ -1,9 +1,12 @@
 <h1 align="center">
 <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=487eef&text=João%20Paulo>
-  
+
+<br>
+
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=inter&duration=3000&pause=1500&color=487EEF&center=true&vCenter=true&random=true&width=435&lines=Network+monitoring+%7C+Cloud" alt="Typing SVG" /></a>
 
+<br>
 
 ## Sobre mim
 
@@ -12,15 +15,10 @@
 Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco em Cloud e desenvolvimento sistemas
 
 
-<br><br>
-
----
-
-<br><br>
+<br><br><br><br><br>
 
 
 ## Tech Stack
-
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,debian,linux,windows,discord,gmail,instagram,linkedin,notion,ubuntu,vscode,cpp">
@@ -38,9 +36,29 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 
 ## Certificações
 
-| certificação | nome |
+| Certificação | Nome |
 | --- | --- |
 |![CCNA ITN](https://img.shields.io/badge/CISCO%20Introduction%20To%20Newtorks-T?style=flat&logo=cisco&logoColor=white&labelColor=black&color=black) | Cisco NetAcademy Introduction to networks |
 |![AWS](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-T?style=flat&logo=amazon&logoColor=white&labelColor=black&color=black) | AWS Academy Cloud Foundations |
 |![AWS]() | |
 |![AWS]() | |
+
+
+
+## Conquistas
+
+- Curso técnico de Redes
+- Participei do evento Tempest Academy Conference 2024
+
+## Projetos
+
+- Casa inteligente para PCDs com uso de IOT (SmartHome Sensations)
+- Monitoramento On-Premises com uso de Zabbix e Grafana (SentinelWatch)
+- Infraestrutura em núvem usando AWS e Azure (CommerCloud)
+
+<br>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoT-dev&theme=nordfox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  </a>
+<p/>
