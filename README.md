@@ -62,3 +62,12 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoT-dev&theme=nordfox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
   </a>
 <p/>
+
+
+## Conecte-se comigo!
+
+<p align="center">
+  <a href="www.linkedin.com/in/joaotombi"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
+
+
