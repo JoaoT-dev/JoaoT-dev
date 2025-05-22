@@ -41,6 +41,6 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 | certificação | nome |
 | --- | --- |
 |![CCNA ITN](https://img.shields.io/badge/CISCO%20Introduction%20To%20Newtorks-T?style=flat&logo=cisco&logoColor=white&labelColor=black&color=black) | Cisco NetAcademy Introduction to networks |
-|![AWS]() | AWS Academy Cloud Foundations |
+|![AWS](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-T?style=flat&logo=amazon&logoColor=white&labelColor=black&color=black) | AWS Academy Cloud Foundations |
 |![AWS]() | |
 |![AWS]() | |
