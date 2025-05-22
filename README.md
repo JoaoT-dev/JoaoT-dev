@@ -44,7 +44,6 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 |![AWS]() | |
 
 
-
 ## Conquistas
 
 - Curso técnico de Redes
@@ -71,3 +70,11 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 </p>
 
 
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br><br>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=JoaoT-dev">
+  </div>
+</h4>
