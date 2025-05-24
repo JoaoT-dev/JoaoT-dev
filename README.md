@@ -35,16 +35,17 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 
 | Certificação | Nome |
 | --- | --- |
-|![CCNA ITN](https://img.shields.io/badge/CISCO%20Introduction%20To%20Newtorks-T?style=flat&logo=cisco&logoColor=white&labelColor=black&color=black) | Cisco NetAcademy Introduction to networks |
-|![AWS](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-T?style=flat&logo=amazon&logoColor=white&labelColor=black&color=black) | AWS Academy Cloud Foundations |
-|![AWS]() | |
-|![AWS]() | |
+|![CCNA ITN](https://img.shields.io/badge/CISCO-black?style=flat&logo=cisco&logoColor=white&link=https%3A%2F%2Fwww.netacad.com%2F) | CCNA: Introduction to networks |
+|![CCNA ITN](https://img.shields.io/badge/CISCO-black?style=flat&logo=cisco&logoColor=white&link=https%3A%2F%2Fwww.netacad.com%2F) | CCNA: Switching, Routing, and Wireless Essentials |
+|![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon&logoColor=white&link=https%3A%2F%2Faws.amazon.com%2F) | AWS Academy: Cloud Foundations |
+|![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon&logoColor=white&link=https%3A%2F%2Faws.amazon.com%2F) | AWS Academy: Cloud Developing |
+
 
 
 ## Conquistas
 
 - Curso técnico de Redes
-- Participei do evento Tempest Academy Conference 2024
+- Presença no evento Tempest Academy Conference 2024
 
 ## Projetos
 
