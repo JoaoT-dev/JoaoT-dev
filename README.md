@@ -7,9 +7,16 @@
 
 ## Sobre mim
 
-<img align="right" height="100" src="https://projectpokemon.org/images/normal-sprite/giratina.gif">
-
-Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco em Cloud e desenvolvimento sistemas
+<p>
+Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco em Cloud e desenvolvimento de sistemas.
+</p>
+<p>
+Gosto da área de TI, principalmente em Cloud e Monitoramento.
+</p>
+<p>
+No tempo livre aprecio um jogo
+</p>
+<a href="https://pokemondb.net/pokedex/kyogre"><img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre"></a>
 
 
 <br><br><br><br><br>
