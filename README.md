@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2C313C&text=João%20Paulo%20💻&fontColor=F4E3B2&strokeWidth=1&stroke=9C6A75">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2e3440&text=João%20Paulo%20💻&fontColor=fad999&stroke=9c6170&strokeWidth=1">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inter&duration=3000&pause=1500&color=7FC7D9&center=true&vCenter=true&width=435&lines=Network+Monitoring+%7C+Cloud" alt="Typing SVG" /></a>
 
