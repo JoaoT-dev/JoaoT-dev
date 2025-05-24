@@ -14,7 +14,7 @@ Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco e
 Gosto da área de TI, principalmente em Cloud e Monitoramento.
 </p>
 <p>
-No tempo livre aprecio um jogo
+No tempo livre aprecio um bom jogo
 </p>
 <a href="https://pokemondb.net/pokedex/kyogre"><img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre"></a>
 
