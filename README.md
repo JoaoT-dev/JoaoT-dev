@@ -7,16 +7,27 @@
 
 ## Sobre mim
 
+
+<br>
+
 <p>
-Cursando o terceiro semestre do curso Redes de computadores no SENAI, com foco em Cloud e desenvolvimento de sistemas.
+Sou estudante de Redes de Computadores, sempre buscando evoluir e explorar novas tecnologias. 
+Tenho experiência prática com monitoramento e automação usando ferramentas como Zabbix e Grafana, além de trabalhar com sistemas Linux, máquinas virtuais e soluções em nuvem como AWS e Azure.
 </p>
 <p>
-Gosto da área de TI, principalmente em Cloud e Monitoramento.
+Sou movido pela curiosidade e gosto de estar sempre aprendendo sobre tudo que envolve computadores, redes e o mundo web. 
+Acredito que a tecnologia é um universo vasto demais para focarmos em uma só área, então estou sempre me aventurando em diferentes tópicos, desde infraestrutura até desenvolvimento.
 </p>
 <p>
-No tempo livre aprecio um bom jogo
+Quando não estou mexendo com servidores ou scripts, gosto de relaxar jogando um videogame. 
+Afinal, nada nada melhor do que equilibrar a lógica das máquinas com um pouco de diversão.
 </p>
-<a href="https://pokemondb.net/pokedex/kyogre"><img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre"></a>
+<p>
+Se quiser trocar uma ideia sobre tecnologia, redes ou até sobre games, fique à vontade para entrar em contato!
+
+
+
+<a href="https://pokemondb.net/pokedex/kyogre"><img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre">
 
 
 <br><br><br><br><br>
