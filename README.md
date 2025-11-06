@@ -8,10 +8,6 @@
 
 ## 🚀 Sobre Mim
 
-<p align="right">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre" width="100px">
-</p>
-
 Sou estudante de Redes de Computadores com paixão por infraestrutura e novas tecnologias. Estou em constante evolução, explorando o vasto universo da computação para conectar e automatizar o mundo.
 
 Minha experiência prática se concentra em:
@@ -24,6 +20,10 @@ Sou movido pela curiosidade! Acredito que a tecnologia é um universo vasto dema
 Quando não estou imerso em configurações de rede ou scripts, gosto de equilibrar a lógica das máquinas com um bom videogame.
 
 > Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade para entrar em contato!
+
+<p align="right">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre" width="100px">
+</p>
 
 ---
 
