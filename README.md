@@ -77,6 +77,7 @@ Quando não estou imerso em configurações de rede ou scripts, gosto de equilib
 
 * Conclusão do Curso Técnico de Redes.
 * Participação no evento Tempest Academy Conference 2024.
+* Visita a CISCO São Paulo
 
 ---
 
