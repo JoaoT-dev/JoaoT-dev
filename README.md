@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1:fddce4,99:bdbcf5&text=João%20Paulo&animation=fadeIn&fontColor=ff&fontAlign=50&fontSize=90">
 </h1>
 
-<p>
+<p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=terminal&size=30&duration=3000&pause=3000&center=true&vCenter=true&random=true&width=870&lines=AWS+%7C+Networking+%7C+Linux+%7C+Monitoring;Error+404+-+File+Not+Found;AWS+%7C+Networking+%7C+Linux+%7C+Monitoring;AWS+%7C+Networking+%7C+Linux+%7C+Monitoring" alt="Typing SVG" /></a>
 </p>
 
@@ -16,10 +16,9 @@ Minha experiência prática se concentra em:
 * Ambientes e Cloud: Administração de sistemas Linux, gerenciamento de máquinas virtuais e atuação com soluções Cloud nas plataformas AWS e Azure.
 
 Sou movido pela curiosidade! Acredito que a tecnologia é um universo vasto demais para focar em uma só área. Por isso, estou sempre me aventurando em diferentes tópicos, desde o backend de servidores até o desenvolvimento e o mundo web.
-
 Quando não estou imerso em configurações de rede ou scripts, gosto de equilibrar a lógica das máquinas com um bom videogame.
 
-> Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade para entrar em contato!
+Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade para entrar em contato!
 
 <p align="right">
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre" width="100px">
