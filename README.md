@@ -24,8 +24,6 @@ Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade 
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif" alt="Kyogre" width="100px">
 </p>
 
----
-
 ## 🛠️ Tech Stack & Ferramentas
 
 ### Cloud & Sistemas Operacionais
@@ -49,9 +47,6 @@ Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade 
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white">
 </p>
 
-
----
-
 ## 🏆 Certificações
 
 | Categoria | Certificação | Título |
@@ -61,16 +56,11 @@ Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade 
 | ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon&logoColor=white) | AWS Academy | Cloud Foundations |
 | ![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon&logoColor=white) | AWS Academy | Cloud Developing |
 
-
----
-
 ## 💡 Projetos em Destaque
 
 * SmartHome Sensations: Casa inteligente para PCDs com uso de IOT.
 * SentinelWatch: Monitoramento On-Premises robusto com Zabbix e Grafana.
 * CommerCloud: Infraestrutura em Cloud usando AWS e Azure.
-
----
 
 ## 🌟 Conquistas
 
@@ -78,15 +68,11 @@ Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade 
 * Participação no evento Tempest Academy Conference 2024.
 * Visita a CISCO São Paulo
 
----
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img title="Estatísticas de Contribuições" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoT-dev&theme=nordfox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
-
----
 
 ## 🔗 Conecte-se comigo!
 
