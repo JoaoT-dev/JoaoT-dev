@@ -68,6 +68,8 @@ Interessado em trocar ideias sobre tecnologia, redes ou games? Fique à vontade 
 * Participação no evento Tempest Academy Conference 2024.
 * Visita a CISCO São Paulo
 
+---
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img title="Estatísticas de Contribuições" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoT-dev&theme=nordfox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
